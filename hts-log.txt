@@ -1,0 +1,276 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Mar 2022 13:22:00 at http://el.commonsupport.com/newwp/naxly/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://el.commonsupport.com/newwp/naxly/ -O1 "D:\NAXLY" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:26:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 745342 got 637183): el.commonsupport.com/newwp/naxly/wp-content/uploads/2020/03/shape-58.png
+13:28:45	Error: 	"Forbidden" (403) at link el.commonsupport.com/newwp/naxly/xmlrpc.php?rsd (from el.commonsupport.com/newwp/naxly/)
+13:41:35	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=667
+13:41:35	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=667 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-6/
+13:42:46	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/?p=123456abc (from el.commonsupport.com/newwp/naxly/)
+13:42:53	Warning: 	Retry after error -4 (Incorrect length (637183 Bytes, 745342 expected)) at link el.commonsupport.com/newwp/naxly/wp-content/uploads/2020/03/shape-58.png (from el.commonsupport.com/newwp/naxly/)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/owl.video.play.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/images/ui-icons_444444_256x240.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/images/ui-icons_555555_256x240.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/images/ui-icons_ffffff_256x240.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/images/ui-icons_777620_256x240.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/images/ui-icons_cc0000_256x240.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/css/images/ui-icons_777777_256x240.png (from hb.wpmucdn.com/el.commonsupport.com/52a6fdd0-e328-47bf-9f30-fbc02e7d4b6e.css)
+13:43:39	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=115
+13:43:39	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=115 to http://el.commonsupport.com/newwp/naxly/artificial-intelligence/
+13:44:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=205
+13:44:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=205 to http://el.commonsupport.com/newwp/naxly/machine-learning/
+13:44:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=269
+13:44:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=269 to http://el.commonsupport.com/newwp/naxly/business-intelligence/
+13:44:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=271
+13:44:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=271 to http://el.commonsupport.com/newwp/naxly/user-analysis/
+13:44:10	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=359
+13:44:10	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=359 to http://el.commonsupport.com/newwp/naxly/home-boxed/
+13:44:10	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1240
+13:44:10	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1240 to http://el.commonsupport.com/newwp/naxly/chatbot/
+13:45:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1331
+13:45:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1331 to http://el.commonsupport.com/newwp/naxly/mobile-app/
+13:45:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1385
+13:45:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1385 to http://el.commonsupport.com/newwp/naxly/sentiment-analysis/
+13:45:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=934
+13:45:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=934 to http://el.commonsupport.com/newwp/naxly/home-rtl/
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=937
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=937 to http://el.commonsupport.com/newwp/naxly/home-onepage/
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=474
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=474 to http://el.commonsupport.com/newwp/naxly/about-company/
+13:45:40	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/about-company/about.html (from el.commonsupport.com/newwp/naxly/about-company/)
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=498
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=498 to http://el.commonsupport.com/newwp/naxly/meet-our-team/
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=508
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=508 to http://el.commonsupport.com/newwp/naxly/get-in-touch/
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=523
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=523 to http://el.commonsupport.com/newwp/naxly/our-services/
+13:45:40	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/our-services/<br /><b>Notice</b>:  Undefined index: id in <b>/home/elcommonsupport/public_html/newwp/naxly/wp-content/plugins/naxly-plugin/elementor/our_solutions.php</b> on line <b>210</b><br /> (from el.commonsupport.com/newwp/naxly/our-services/)
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=700
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=700 to http://el.commonsupport.com/newwp/naxly/service-details/
+13:45:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=548
+13:45:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=548 to http://el.commonsupport.com/newwp/naxly/project-2-columns/
+13:45:50	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=567
+13:45:50	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=567 to http://el.commonsupport.com/newwp/naxly/project-3-columns/
+13:45:57	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=586
+13:45:57	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=586 to http://el.commonsupport.com/newwp/naxly/case-studies/
+13:45:58	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=584
+13:45:58	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=584 to http://el.commonsupport.com/newwp/naxly/naxly_project/baby-care-mobile-app/
+13:45:58	Warning: 	Retry after error -4 (No data (connection closed)) at link hb.wpmucdn.com/el.commonsupport.com/b25c6132-1a43-43d7-b301-bf5c804554f3.js (from el.commonsupport.com/newwp/naxly/naxly_project/baby-care-mobile-app/)
+13:45:58	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=593
+13:45:58	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=593 to http://el.commonsupport.com/newwp/naxly/classic-grid/
+13:46:50	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=619
+13:46:50	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=619 to http://el.commonsupport.com/newwp/naxly/classic-with-s-b/
+13:47:14	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=734
+13:47:14	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=734 to http://el.commonsupport.com/newwp/naxly/service-01/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=737
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=737 to http://el.commonsupport.com/newwp/naxly/service-02/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=745
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=745 to http://el.commonsupport.com/newwp/naxly/about-01/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=747
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=747 to http://el.commonsupport.com/newwp/naxly/about-02/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=749
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=749 to http://el.commonsupport.com/newwp/naxly/about-03/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=762
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=762 to http://el.commonsupport.com/newwp/naxly/about-04/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=768
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=768 to http://el.commonsupport.com/newwp/naxly/about-05/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=775
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=775 to http://el.commonsupport.com/newwp/naxly/about-06/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=785
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=785 to http://el.commonsupport.com/newwp/naxly/work-01/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=791
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=791 to http://el.commonsupport.com/newwp/naxly/work-02/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=800
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=800 to http://el.commonsupport.com/newwp/naxly/skills-01/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=804
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=804 to http://el.commonsupport.com/newwp/naxly/skills-02/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=808
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=808 to http://el.commonsupport.com/newwp/naxly/case-01/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=814
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=814 to http://el.commonsupport.com/newwp/naxly/case-02/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=816
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=816 to http://el.commonsupport.com/newwp/naxly/case-03/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=822
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=822 to http://el.commonsupport.com/newwp/naxly/case-04/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=831
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=831 to http://el.commonsupport.com/newwp/naxly/fun-fact-01/
+13:47:25	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=836
+13:47:25	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=836 to http://el.commonsupport.com/newwp/naxly/fun-fact-02/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=838
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=838 to http://el.commonsupport.com/newwp/naxly/fun-fact-03/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=843
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=843 to http://el.commonsupport.com/newwp/naxly/fun-fact-04/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=846
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=846 to http://el.commonsupport.com/newwp/naxly/news-01/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=847
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=847 to http://el.commonsupport.com/newwp/naxly/news-02/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=848
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=848 to http://el.commonsupport.com/newwp/naxly/news-03/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=849
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=849 to http://el.commonsupport.com/newwp/naxly/news-04/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=883
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=883 to http://el.commonsupport.com/newwp/naxly/choose-us-01/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=888
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=888 to http://el.commonsupport.com/newwp/naxly/choose-us-02/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=893
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=893 to http://el.commonsupport.com/newwp/naxly/choose-us-03/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=899
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=899 to http://el.commonsupport.com/newwp/naxly/team-01/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=904
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=904 to http://el.commonsupport.com/newwp/naxly/team-02/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=909
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=909 to http://el.commonsupport.com/newwp/naxly/team-03/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=915
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=915 to http://el.commonsupport.com/newwp/naxly/team-04/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=920
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=920 to http://el.commonsupport.com/newwp/naxly/technology/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=673
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=673 to http://el.commonsupport.com/newwp/naxly/coming-soon/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=670
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=670 to http://el.commonsupport.com/newwp/naxly/faqs/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=76
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=76 to http://el.commonsupport.com/newwp/naxly/naxly_project/consulting-on-invoice-data-capture/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=82
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=82 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=83
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=83 to http://el.commonsupport.com/newwp/naxly/naxly_project/big-data-processing-implementation/
+13:47:26	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=84
+13:47:26	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=84 to http://el.commonsupport.com/newwp/naxly/naxly_project/bi-implementation-for-baby-care-app/
+13:47:26	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/wp-content/themes/naxly/assets/images/resources/breadcrumb-bg.jpg (from el.commonsupport.com/newwp/naxly/category/latest-news/)
+13:47:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=90
+13:47:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=90 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data/
+13:47:40	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data/)
+13:47:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=96
+13:47:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=96 to http://el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic/
+13:47:40	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic/)
+13:47:40	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=98
+13:47:40	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=98 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards/
+13:47:40	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards/)
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=145
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=145 to http://el.commonsupport.com/newwp/naxly/naxly_project/invoice-data-capture/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=152
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=152 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-2/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=153
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=153 to http://el.commonsupport.com/newwp/naxly/naxly_project/big-data-processing/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=154
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=154 to http://el.commonsupport.com/newwp/naxly/naxly_project/invoice-data-capture-2/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=157
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=157 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-3/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=641
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=641 to http://el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-4/
+13:47:41	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-4/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-4/)
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=635
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=635 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-5/
+13:47:41	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-5/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-5/)
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=428
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=428 to http://el.commonsupport.com/newwp/naxly/naxly_project/banking-finance/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=434
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=434 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-4/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=436
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=436 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-5/
+13:47:41	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=438
+13:47:41	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=438 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-6/
+13:47:58	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=659
+13:47:58	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=659 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-7/
+13:47:58	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-7/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-7/)
+13:48:00	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=661
+13:48:00	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=661 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-5/
+13:48:00	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-5/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-5/)
+13:48:01	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1095
+13:48:01	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1095 to http://el.commonsupport.com/newwp/naxly/naxly_project/%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b7-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%aa%d9%88%d8%b1%d8%a9/
+13:48:01	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1097
+13:48:01	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1097 to http://el.commonsupport.com/newwp/naxly/naxly_project/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1%d8%a9/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1099
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1099 to http://el.commonsupport.com/newwp/naxly/naxly_project/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-bi-%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d9%81%d9%84-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1101
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1101 to http://el.commonsupport.com/newwp/naxly/naxly_project/%d8%aa%d9%86%d9%81%d9%8a%d8%b0-bi-%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d9%81%d9%84-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-2/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1105
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1105 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-%d8%a7%d8%b3%d9%85%d9%87-%d9%83%d8%b1%d8%a7%d8%a6%d8%af-%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b6%d8%ae%d9%85%d8%a9/
+13:48:02	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-%d8%a7%d8%b3%d9%85%d9%87-%d9%83%d8%b1%d8%a7%d8%a6%d8%af-%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b6%d8%ae%d9%85%d8%a9/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-اسمه-كرائد-عالمي-في-البيانات-الضخمة/)
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1107
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1107 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-%d9%83%d9%81%d8%a7%d8%a6%d8%b2%d9%8a%d9%86-%d9%81%d9%8a-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/
+13:48:02	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-%d9%83%d9%81%d8%a7%d8%a6%d8%b2%d9%8a%d9%86-%d9%81%d9%8a-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-كفائزين-في-جوائز-الوكالة-العالمية/)
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=1113
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=1113 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-%d9%83%d9%81%d8%a7%d8%a6%d8%b2%d9%8a%d9%86-%d9%81%d9%8a-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-2/
+13:48:02	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-%d9%83%d9%81%d8%a7%d8%a6%d8%b2%d9%8a%d9%86-%d9%81%d9%8a-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-2/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-كفائزين-في-جوائز-الوكالة-العالمية-2/)
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=561
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=561 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-7/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=563
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=563 to http://el.commonsupport.com/newwp/naxly/naxly_project/consulting-on-invoice-data-capture-2/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=565
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=565 to http://el.commonsupport.com/newwp/naxly/naxly_project/bi-implementation-for-baby-care-app-2/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=566
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=566 to http://el.commonsupport.com/newwp/naxly/naxly_project/automate-feedback-analysis-8/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=569
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=569 to http://el.commonsupport.com/newwp/naxly/naxly_project/invoice-data-capture-3/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=577
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=577 to http://el.commonsupport.com/newwp/naxly/naxly_project/big-data-processing-2/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=578
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=578 to http://el.commonsupport.com/newwp/naxly/naxly_project/network-implementation/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=580
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=580 to http://el.commonsupport.com/newwp/naxly/naxly_project/big-data-processing-3/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=582
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=582 to http://el.commonsupport.com/newwp/naxly/naxly_project/baby-care-mobile-application/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=583
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=583 to http://el.commonsupport.com/newwp/naxly/naxly_project/invoice-data-capture-4/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/project-3-columns/page/1/
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/project-3-columns/page/1/ to http://el.commonsupport.com/newwp/naxly/project-3-columns/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/case-studies/page/1/
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/case-studies/page/1/ to http://el.commonsupport.com/newwp/naxly/case-studies/
+13:48:02	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=613
+13:48:02	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=613 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-3/
+13:48:02	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-3/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-3/)
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=598
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=598 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-2/
+13:48:03	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-2/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-2/)
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=607
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=607 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-2/
+13:48:03	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-2/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-2/)
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=609
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=609 to http://el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-2/
+13:48:03	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-2/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-2/)
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=611
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=611 to http://el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-3/
+13:48:03	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-3/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence-infographic-3/)
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=615
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=615 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-3/
+13:48:03	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-3/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-3/)
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/classic-grid/page/1/
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/classic-grid/page/1/ to http://el.commonsupport.com/newwp/naxly/classic-grid/
+13:48:03	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=617
+13:48:03	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=617 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-4/
+13:48:03	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-4/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-4/)
+13:48:04	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/modern-with-s-b/page/1/
+13:48:04	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/modern-with-s-b/page/1/ to http://el.commonsupport.com/newwp/naxly/modern-with-s-b/
+13:48:04	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-6/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-6/)
+13:48:04	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/category/latest-news/page/1/
+13:48:04	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/category/latest-news/page/1/ to http://el.commonsupport.com/newwp/naxly/category/latest-news/
+13:48:04	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=663
+13:48:04	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=663 to http://el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence/
+13:48:04	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/the-current-state-of-artificial-intelligence/)
+13:48:04	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=651
+13:48:04	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=651 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-6/
+13:48:04	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-6/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-6/)
+13:48:04	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=645
+13:48:04	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=645 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-4/
+13:48:04	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-4/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-as-the-winners-in-global-agency-awards-4/)
+13:48:05	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/?p=665
+13:48:05	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/?p=665 to http://el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-8/
+13:48:05	Error: 	"Not Found" (404) at link el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-8/javascript(0): (from el.commonsupport.com/newwp/naxly/2020/08/naxly-named-as-a-global-leader-in-big-data-8/)
+13:48:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/category/our-blog/page/1/
+13:48:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/category/our-blog/page/1/ to http://el.commonsupport.com/newwp/naxly/category/our-blog/
+13:48:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/tag/analysis/page/1/
+13:48:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/tag/analysis/page/1/ to http://el.commonsupport.com/newwp/naxly/tag/analysis/
+13:48:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/tag/consulting/page/1/
+13:48:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/tag/consulting/page/1/ to http://el.commonsupport.com/newwp/naxly/tag/consulting/
+13:48:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/tag/data/page/1/
+13:48:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/tag/data/page/1/ to http://el.commonsupport.com/newwp/naxly/tag/data/
+13:48:06	Warning: 	Moved Permanently for el.commonsupport.com/newwp/naxly/tag/engineering/page/1/
+13:48:06	Warning: 	File has moved from el.commonsupport.com/newwp/naxly/tag/engineering/page/1/ to http://el.commonsupport.com/newwp/naxly/tag/engineering/
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 6 seconds : 1083 links scanned, 932 files written (41893877 bytes overall) [38930465 bytes received at 24859 bytes/sec], 5909261 bytes transferred using HTTP compression in 13 files, ratio 19%, 2.7 requests per connection
+(34 errors, 231 warnings, 0 messages)

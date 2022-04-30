@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Login</title>
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+     <link rel="stylesheet" href="draw.css">
+         
+</head>
+
+<body>
+    <div id="container">
+        <div id="login-email">
+          <h3 id="login-text">Login</h3>
+          <input type="text" placeholder="Username" id="userInp" class="form-control mb-3">
+          <input type="password" placeholder="Password" id="passInp" class="form-control mb-3">
+          <div class="custom-control custom-switch mb-3">
+               <input type="checkbox" class="custom-control-input" id="customSwitch1">
+               <label class="custom-control-label" for="customSwitch1">Keep me Logged In</label>
+              </div>
+             <div id="input-group">
+                <button type="text" id="sub_btn" class="btn">Login</button>
+            </div>
+            <a href="register.html" id="login-register-text">Want to create A New Account?</a>
+     </div>
+</div>
+
+     <script type="module">
+        //-----------------------FIREBASE CONFIG-------------------------------------------------------------------//
+        // Import the functions you need from the SDKs you need
+  		import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.6/firebase-app.js";
+  		// TODO: Add SDKs for Firebase products that you want to use
+  		// https://firebase.google.com/docs/web/setup#available-libraries
+
+  		// Your web app's Firebase configuration
+  		const firebaseConfig = {
+    		apiKey: "AIzaSyDNtoHhkCC1VPadFRyweMNJvdaWdkgQ7uI",
+    		authDomain: "ai-project-b88db.firebaseapp.com",
+    		databaseURL: "https://ai-project-b88db-default-rtdb.firebaseio.com",
+    		projectId: "ai-project-b88db",
+    		storageBucket: "ai-project-b88db.appspot.com",
+    		messagingSenderId: "541832168239",
+    		appId: "1:541832168239:web:a87f13f2fc1140cca197da"
+  		};
+
+  		// Initialize Firebase
+  		const app = initializeApp(firebaseConfig);
+        
+        import { getDatabase, ref, set, child, get }
+            from "https://www.gstatic.com/firebasejs/9.6.6/firebase-database.js";
+        
+        const db = getDatabase();
+
+//------------------------------THE REFRENECES---------------------------------------------------------------------//
+
+        const username = document.getElementById('userInp');
+        const pass = document.getElementById('passInp');
+        const submit = document.getElementById('sub_btn');
+
+//------------------------------AUTHENTICATION PROCESS-------------------------------------------------------------//          
+         
+    function AuthenticateUser(){
+        const dbref = ref(db);
+
+        get(child(dbref, "UsersList/"+ username.value)).then((snapshot)=>{
+            if(snapshot.exists()){
+                //alert()
+                let dbpass = decPass(snapshot.val().password);
+                if(dbpass == pass.value){
+                     login(snapshot.val());
+                }
+
+                else{
+                     alert("username or password is invalid");
+                }
+
+            }
+
+            else{
+                alert("username or password is invalid");
+            }
+        });   
+    }
+
+//------------------------------DECRIPTION-------------------------------------------------------------------------//    
+
+    function decPass(dbpass){
+               var pass12 = CryptoJS.AES.decrypt(dbpass, pass.value);
+               return pass12.toString(CryptoJS.enc.Utf8);
+            }
+
+//------------------------------LOGIN------------------------------------------------------------------------------//    
+
+        function login(user){
+            let keepLoggedIn = document.getElementById('customSwitch1').checked;
+
+            if(!keepLoggedIn){
+                 sessionStorage.setItem('user', JSON.stringify(user));
+                 window.location="index.html";
+            }
+
+            else{
+                 localStorage.setItem('keepLoggedIn', 'yes');
+                 localStorage.setItem('user', JSON.stringify(user));
+                 window.location="index.html";
+            }
+        }
+
+//---------------------------------ASSIGN THE EVENTS---------------------------------------------------------------//
+
+      submit.addEventListener('click', AuthenticateUser);
+
+    </script>
+</body>
+
+</html>
